@@ -7,11 +7,11 @@ Features:
 Options: 
 
 1. The user can set the passwords length using the input field (by defauld the length is 15 characters) +
-1.1. Fields validation + 
+* Fields validation + 
 
-3. The user can copy each password by clicking on the button +
-2.1 Create buttons to copy the password +
+4. The user can copy each password by clicking on the button +
+* Create buttons to copy the password +
 
-4. Checkboxes for each of the password fileds with 2 options to toggle "symbols" and / or "numbers" +
+5. Checkboxes for each of the password fileds with 2 options to toggle "symbols" and / or "numbers" +
 
-5. Theme switch between light and dark mode +
+6. Theme switch between light and dark mode +
